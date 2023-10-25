@@ -1,7 +1,5 @@
 # gRPC-nmap
 
-![GitHub](https://img.shields.io/github/license/DmitriiKumancev/gRPC-nmap)
-
 gRPC-nmap is a powerful gRPC service that acts as a wrapper over Nmap for network vulnerability scanning. It is designed to make it easier to perform vulnerability assessments on target hosts and retrieve detailed information about any vulnerabilities discovered.
 
 ## Features
@@ -70,3 +68,6 @@ To execute the tests, run:
 ```bash
 make test
 ```
+---
+
+**Author:** [Dmitrii Kumancev](https://github.com/DmitriiKumancev)
