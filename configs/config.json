@@ -1,0 +1,8 @@
+{
+    "grpc_server":{
+        "port": "50051"
+    },
+    "grpc_client":{
+        "port": ":50051"    
+    }
+}
